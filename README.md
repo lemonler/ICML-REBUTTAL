@@ -71,4 +71,4 @@ We used ASSE-Net (ours), Spiking-FullSubnet, and Spiking-U_Net, which were train
 | speech11|    **4.10**              | 3.57               | 3.08          |
 | speech12|     **4.06**             | 3.11               | 2.68          |
 | avg.    |     **3.78**             | 3.21               | 2.49          |
-                      Table 3: Average scores for each speech sample across all testers under different model processing.
+                      Table 4: Average scores for each speech sample across all testers under different model processing.
